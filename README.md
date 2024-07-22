@@ -1,11 +1,11 @@
-# cosine Function Approximation Neural Network
+# Cosine Function Approximation Neural Network
 
 ## Model Details
 **Model Type:** Neural Network
 
 **Framework:** TensorFlow, Keras
 
-**Purpose:** To approximate the gicosine function using a neural network.
+**Purpose:** To approximate the cosine function using a neural network.
 
 
 ## Intended Use
